@@ -1,0 +1,11 @@
+@import url('../app-header/app-header.scss');
+@import url('../post-add-form/post-add-form.css');
+@import url('../post-list-item/post-list-item.css');
+@import url('../post-list/post-list.css');
+@import url('../post-status-filter/post-status-filter.css');
+@import url('../search/search.css');
+
+.app {
+	margin: 0 auto;
+	max-width: 800px;
+}
